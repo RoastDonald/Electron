@@ -5,7 +5,7 @@
   "dependencies": {
     "electron-is-dev": "^1.1.0",
     "firebase": "^7.9.2",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "plotly.js": "^1.52.1",
     "rc-queue-anim": "^1.8.3",
     "react": "^16.11.0",
